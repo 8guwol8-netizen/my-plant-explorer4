@@ -1,12 +1,12 @@
 {
   "app": {
-    "name": "학교 식물 탐사대",
-    "shortName": "식물 탐사대",
+    "name": "문남초초 식물 탐사대",
+    "shortName": "문남초 탐사대",
     "tagline": "AI 생태 탐사",
     "emoji": "🌿"
   },
   "defaultGrade": "3-4",
-  "notice": "",
+  "notice": "[이번 주 미션: 학교 화단에서 잎맥이 나란한 식물을 찾아요!]",
   "menu": [
     {
       "href": "/",
