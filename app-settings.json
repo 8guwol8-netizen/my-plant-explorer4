@@ -1,0 +1,43 @@
+{
+  "app": {
+    "name": "학교 식물 탐사대",
+    "shortName": "식물 탐사대",
+    "tagline": "AI 생태 탐사",
+    "emoji": "🌿"
+  },
+  "defaultGrade": "3-4",
+  "notice": "",
+  "menu": [
+    {
+      "href": "/",
+      "icon": "📷",
+      "label": "발견"
+    },
+    {
+      "href": "/search",
+      "icon": "🔍",
+      "label": "검색"
+    },
+    {
+      "href": "/my",
+      "icon": "📒",
+      "label": "나의 도감"
+    },
+    {
+      "href": "/settings",
+      "icon": "⚙️",
+      "label": "설정"
+    }
+  ],
+  "places": [
+    "학교 운동장",
+    "학교 화단",
+    "학교 뒷산",
+    "교실 화분",
+    "집 근처",
+    "기타"
+  ],
+  "pages": {},
+  "terms": {},
+  "curriculum": []
+}
